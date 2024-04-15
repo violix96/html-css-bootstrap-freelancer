@@ -4,6 +4,7 @@
 
 h1{
     color: white;
+    font-size: 20px;
 }
 
 .fa-solid, .fa-bars{
@@ -17,3 +18,4 @@ h1{
 .bg_green{
     background-color: #1ABC9C;
 }
+
