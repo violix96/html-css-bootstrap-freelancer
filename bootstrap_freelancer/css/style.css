@@ -1,0 +1,15 @@
+.bg_dark_blue{
+    background-color: #2C3E50;
+}
+
+h1{
+    color: white;
+}
+
+.fa-solid, .fa-bars{
+    filter: invert(100%);
+}
+
+.col-6{
+    color: white;
+}
