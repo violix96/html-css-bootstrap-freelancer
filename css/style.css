@@ -1,3 +1,7 @@
+body{
+    font-weight: 500;
+}
+
 .bg_dark_blue{
     background-color: #2C3E50;
 }
@@ -13,6 +17,20 @@ h1{
 
 .bg_green{
     background-color: #1ABC9C;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+h2{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.nav-text{
+    font-weight: bold;
+    font-size: 15px;
 }
 
 
