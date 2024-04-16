@@ -3,7 +3,7 @@
 }
 
 h1{
-    color: white;
+    /* color: white; */
     font-size: 20px;
 }
 
@@ -11,11 +11,10 @@ h1{
     filter: invert(100%);
 }
 
-.col-6{
-    color: white;
-}
-
 .bg_green{
     background-color: #1ABC9C;
 }
 
+/* .main: :nth-child(odd){
+
+} */
