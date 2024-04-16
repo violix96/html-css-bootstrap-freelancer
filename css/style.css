@@ -32,8 +32,56 @@ h2{
     font-weight: bold;
     font-size: 15px;
 }
+.p-about{
+    color: white;
+    font-size: 21px;
+    text-align: left;
+}
+ a{
+    text-decoration: none;
+ }
 
+ .top-footer{
+    background-color: #3A546D;
+ }
+ .bottom-footer{
+    background-color: #2C3E50;
+ }
 
-/* .main: :nth-child(odd){
+ .button-social{
+    color: white;
+    text-decoration: none;
+ }
 
-} */
+ .horizontal-white{
+    width: 25%;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    margin: auto 20px;
+}
+ .horizontal-white-sm{
+    width: 15%;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    margin: auto 20px;
+}
+ .horizontal-blue{
+    width: 25%;
+    height: 10px;
+    background-color: #2C3E50;
+    border-radius: 8px;
+    margin: auto 20px;
+}
+ .horizontal-blue-sm{
+    width: 15%;
+    height: 10px;
+    background-color: #2C3E50;
+    border-radius: 8px;
+    margin: auto 20px;
+}
+.fas, .fa-star, .white{
+    color: white;
+    font-size: 30px;
+}
